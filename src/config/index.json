@@ -3,32 +3,14 @@
     "name": "React landing page 2021",
     "logo": "/assets/images/logo.png"
   },
-  "navigation": [
-    {
-      "name": "Product",
-      "href": "product"
-    },
-    {
-      "name": "Features",
-      "href": "features"
-    },
-
-    {
-      "name": "Pricing",
-      "href": "pricing"
-    },
-    {
-      "name": "About",
-      "href": "about"
-    }
-  ],
+  "navigation": [],
   "callToAction": {
     "text": "Get started",
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
+    "title": "My Story",
+    "subtitle": "My Story.",
     "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
@@ -82,13 +64,13 @@
       }
     ]
   },
-  "pricing": {
-    "title": "Pricing",
+  "donation": {
+    "title": "Donation",
     "items": [
       {
-        "name": "Free",
+        "name": "Account Details",
         "price": "$0",
-        "priceDetails": "for one user",
+        "AccountDetails": "Acc Holder name : Leelawat Yadav Acc No. : 53110100006549 Benefit IFSC code : BARBOROHSEC",
         "features": [
           "1 user",
           "Basic Support",
@@ -97,10 +79,10 @@
         ]
       },
       {
-        "name": "Pro",
+        "name": "QR",
         "price": "$15",
         "priceDetails": "per user",
-
+        "img": "/assets/images/product2.jpg",
         "features": [
           "5 users",
           "Priority Support",
@@ -124,12 +106,12 @@
   "about": {
     "sections": [
       {
-        "name": "Something",
+        "name": "Address",
         "href": "#",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       },
       {
-        "name": "Something",
+        "name": "Mobile",
         "href": "#",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       },
