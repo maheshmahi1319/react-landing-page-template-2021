@@ -13,7 +13,7 @@ const Menu = () => {
 
   return (
     <>
-      {/* <svg
+      <svg
         className={`hidden lg:block absolute right-0 inset-y-0 h-full w-48 text-background transform translate-x-1/2`}
         fill="currentColor"
         viewBox="0 0 100 100"
@@ -21,7 +21,7 @@ const Menu = () => {
         aria-hidden="true"
       >
         <polygon points="50,0 100,0 50,100 0,100" />
-      </svg> */}
+      </svg>
 
       <Popover>
         <div className="relative pt-6 px-4 sm:px-6 lg:px-8">
