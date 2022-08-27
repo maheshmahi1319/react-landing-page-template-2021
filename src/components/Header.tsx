@@ -33,7 +33,11 @@ const Menu = () => {
               <div className="flex items-center justify-between w-full md:w-auto">
                 <a href="#">
                   {/* <span className="sr-only">{companyName}</span> */}
-                  {/* <img alt="logo" className="h-16 w-auto sm:h-16" src={logo} /> */}
+                  <img
+                    alt="logo"
+                    className="h-16 w-auto sm:h-16"
+                    src="assets/images/logo2.jpeg"
+                  />
                 </a>
                 <div className="-mr-2 flex items-center md:hidden">
                   <Popover.Button

@@ -8,7 +8,7 @@ function IndividualIntervalsExample() {
   return (
     <Carousel variant="dark" style={{ height: '80%' }}>
       {slider.items.map((item, index) => (
-        <Carousel.Item interval={1000} key={index}>
+        <Carousel.Item interval={5000} key={index}>
           <img className="d-block w-100" src={item.img} alt="First slide" />
           <Carousel.Caption></Carousel.Caption>
         </Carousel.Item>

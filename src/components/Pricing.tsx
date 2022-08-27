@@ -24,13 +24,15 @@ const Pricing = () => {
             {section.AccountDetails}
           </p>
         ))}
-        <div>
+        <div
+          className=" width: 100%;
+    height: auto; img-responsive"
+        >
           <img
             src="/assets/images/qr.jpeg"
-            className=" width: 100%;
-    height: auto;
-    object-fit: cover;"
-            alt="happy team image"
+            height="300"
+            width="300 "
+            alt="happy team image "
           />
         </div>
       </div>
